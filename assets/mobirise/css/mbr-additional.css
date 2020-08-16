@@ -711,6 +711,27 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
+.cid-s7PP4IrGq2 {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-s7PP4IrGq2 .image-block {
+  margin: auto;
+}
+.cid-s7PP4IrGq2 figcaption {
+  position: relative;
+}
+.cid-s7PP4IrGq2 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s7PP4IrGq2 .image-block {
+    width: 100% !important;
+  }
+}
 .cid-s5S4NPdjvO .navbar {
   background: #149dcc;
   transition: none;
