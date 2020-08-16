@@ -712,9 +712,10 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-s7PP4IrGq2 {
-  background: #ffffff;
-  padding-top: 60px;
+  background: #f9f295;
+  padding-top: 105px;
   padding-bottom: 60px;
+  background: linear-gradient(45deg, #f9f295, #149dcc);
 }
 .cid-s7PP4IrGq2 .image-block {
   margin: auto;
