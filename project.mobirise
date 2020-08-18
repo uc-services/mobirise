@@ -965,6 +965,9 @@
                   "justify-content": "center"
                 }
               }
+            },
+            "H5": {
+              "color": "#f7ed4a"
             }
           },
           "_name": "footer1",
